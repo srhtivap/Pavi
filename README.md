@@ -1,5 +1,5 @@
-Hi
+Hello
 
-Iam Pavithra
+I have deleted all the info from this file
 
-This is my 2nd file 
+So no old info will be available
